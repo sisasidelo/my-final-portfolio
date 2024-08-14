@@ -17,7 +17,7 @@ export default function Experiences() {
             Professional Experiences
           </h1>
           <p className="text-base leading-relaxed xl:w-2/4 lg:w-3/4 mx-auto">
-            Below are some of the key projects and roles I've undertaken, showcasing my skills and contributions.
+            Below are some of the key projects and roles I&apos;ve undertaken, showcasing my skills and contributions.
           </p>
         </div>
         <div className="flex flex-wrap -m-4">

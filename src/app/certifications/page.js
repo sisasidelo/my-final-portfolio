@@ -15,7 +15,7 @@ export default function Certifications() {
             Certifications
           </h1>
           <p className="text-base leading-relaxed xl:w-2/4 lg:w-3/4 mx-auto">
-            Below are some of the key certifications I've achieved, showcasing my knowledge and skills in various areas.
+            Below are some of the key certifications I&apos;ve achieved, showcasing my knowledge and skills in various areas.
           </p>
         </div>
         <div className="flex flex-wrap -m-4">
