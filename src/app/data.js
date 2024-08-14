@@ -97,3 +97,76 @@ export const skillsData = {
 
   ],
 };
+
+export const experiences = [
+  {
+    id:'React-Tracks-1',
+    title: "React Tracks",
+    subtitle: "React and Python",
+    description:
+      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium dolore rerum laborum iure enim sint nemo omnis voluptate exercitationem eius?",
+    image: "./project-2.gif",
+    link: "https://reactbootcamp.com",
+    tasks:['Data Modelling', 'Cleaning Data','Creating Views','Optimizing scripts'  ],
+    extendedDescription: 'More details about the Project'
+  },
+
+  {
+    id:'React-Tracks-2',
+    title: "React Tracks",
+    subtitle: "React and Python",
+    description:
+      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium dolore rerum laborum iure enim sint nemo omnis voluptate exercitationem eius?",
+    image: "./project-2.gif",
+    link: "https://reactbootcamp.com",
+    tasks:['Data Modelling', 'Cleaning Data','Creating Views','Optimizing scripts'  ],
+    extendedDescription: 'More details about the Project'
+  },
+  {
+    id:'React-Tracks-3',
+    title: "React Tracks",
+    subtitle: "React and Python",
+    description:
+      "Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium dolore rerum laborum iure enim sint nemo omnis voluptate exercitationem eius?",
+    image: "./project-2.gif",
+    link: "https://reactbootcamp.com",
+    tasks:['Data Modelling', 'Cleaning Data','Creating Views','Optimizing scripts'  ],
+    extendedDescription: 'More details about the Project'
+  },
+  // Add more experiences here
+];
+
+export const certifications = [
+  {
+    id: "azure-certification",
+    title: "Microsoft Azure Fundamentals",
+    subtitle: "AZ-900",
+    description:
+      "This certification demonstrates foundational level knowledge of cloud services and how those services are provided with Microsoft Azure.",
+    image: "/azure-certification.jpg",
+    link: "https://learn.microsoft.com/en-us/certifications/azure-fundamentals/",
+    extendedDescription: 'This certification covers general cloud computing concepts, models, services such as Public, Private and Hybrid cloud, as well as infrastructure as a service (IaaS), platform as a service (PaaS), and software as a service (SaaS). It also focuses on Azure services, privacy, compliance, trust, and Azure pricing and support.'
+  },
+
+  {
+    id: "azure-data-certification",
+    title: "Microsoft  Azure Data Fundamentals",
+    subtitle: "AZ-900",
+    description:
+      "This certification demonstrates foundational level knowledge of cloud services and how those services are provided with Microsoft Azure.",
+    image: "/azure-certification.jpg",
+    link: "https://learn.microsoft.com/en-us/certifications/azure-fundamentals/",
+    extendedDescription: 'This certification covers general cloud computing concepts, models, services such as Public, Private and Hybrid cloud, as well as infrastructure as a service (IaaS), platform as a service (PaaS), and software as a service (SaaS). It also focuses on Azure services, privacy, compliance, trust, and Azure pricing and support.'
+  },
+
+  {
+    id: "azure-data-eng-certification",
+    title: "Microsoft  Azure Data Engineer",
+    subtitle: "AZ-900",
+    description:
+      "This certification demonstrates foundational level knowledge of cloud services and how those services are provided with Microsoft Azure.",
+    image: "/azure-certification.jpg",
+    link: "https://learn.microsoft.com/en-us/certifications/azure-fundamentals/",
+    extendedDescription: 'This certification covers general cloud computing concepts, models, services such as Public, Private and Hybrid cloud, as well as infrastructure as a service (IaaS), platform as a service (PaaS), and software as a service (SaaS). It also focuses on Azure services, privacy, compliance, trust, and Azure pricing and support.'
+  },
+]
