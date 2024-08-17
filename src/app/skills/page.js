@@ -13,8 +13,8 @@ export default function Skills() {
 
   return (
     <Layout>
-     <section id="skills" className="w-full h-screen flex items-center justify-center bg-gray-900 text-white">
-      <div className="container bg-gray-800 px-5 py-10 mx-auto">
+     <section id="skills" className="w-full h-screen flex items-center justify-center  text-white">
+      <div className="container bg-gray-900 px-5 py-10 mx-auto">
         
         <div className="text-center mb-20">
           <ChipIcon className="w-10 inline-block mb-4" />
